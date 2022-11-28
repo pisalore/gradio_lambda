@@ -1,0 +1,96 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="65">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="1" class="java.lang.String" itemvalue="Django" />
+            <item index="2" class="java.lang.String" itemvalue="django-rest" />
+            <item index="3" class="java.lang.String" itemvalue="django-meta-mixin" />
+            <item index="4" class="java.lang.String" itemvalue="django" />
+            <item index="5" class="java.lang.String" itemvalue="pillow" />
+            <item index="6" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="7" class="java.lang.String" itemvalue="croniter" />
+            <item index="8" class="java.lang.String" itemvalue="coverage" />
+            <item index="9" class="java.lang.String" itemvalue="cffi" />
+            <item index="10" class="java.lang.String" itemvalue="cryptography" />
+            <item index="11" class="java.lang.String" itemvalue="django-q-sentry" />
+            <item index="12" class="java.lang.String" itemvalue="easy-thumbnails" />
+            <item index="13" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="14" class="java.lang.String" itemvalue="django-filer" />
+            <item index="15" class="java.lang.String" itemvalue="filelock" />
+            <item index="16" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="17" class="java.lang.String" itemvalue="certifi" />
+            <item index="18" class="java.lang.String" itemvalue="django-colorfield" />
+            <item index="19" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="20" class="java.lang.String" itemvalue="pyjwt" />
+            <item index="21" class="java.lang.String" itemvalue="idna" />
+            <item index="22" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="23" class="java.lang.String" itemvalue="django-autoslug" />
+            <item index="24" class="java.lang.String" itemvalue="zipp" />
+            <item index="25" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="26" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="27" class="java.lang.String" itemvalue="odfpy" />
+            <item index="28" class="java.lang.String" itemvalue="diff-match-patch" />
+            <item index="29" class="java.lang.String" itemvalue="tablib" />
+            <item index="30" class="java.lang.String" itemvalue="django-import-export" />
+            <item index="31" class="java.lang.String" itemvalue="xlwt" />
+            <item index="32" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="33" class="java.lang.String" itemvalue="markuppy" />
+            <item index="34" class="java.lang.String" itemvalue="xlrd" />
+            <item index="35" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="36" class="java.lang.String" itemvalue="model-bakery" />
+            <item index="37" class="java.lang.String" itemvalue="django-composite-foreignkey" />
+            <item index="38" class="java.lang.String" itemvalue="nose" />
+            <item index="39" class="java.lang.String" itemvalue="inotify" />
+            <item index="40" class="java.lang.String" itemvalue="invoke" />
+            <item index="41" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="42" class="java.lang.String" itemvalue="paramiko" />
+            <item index="43" class="java.lang.String" itemvalue="fabric" />
+            <item index="44" class="java.lang.String" itemvalue="pathlib2" />
+            <item index="45" class="java.lang.String" itemvalue="cx-oracle" />
+            <item index="46" class="java.lang.String" itemvalue="django-ckeditor" />
+            <item index="47" class="java.lang.String" itemvalue="pynacl" />
+            <item index="48" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="49" class="java.lang.String" itemvalue="msal" />
+            <item index="50" class="java.lang.String" itemvalue="django-ccms-lib" />
+            <item index="51" class="java.lang.String" itemvalue="django-lock-tokens" />
+            <item index="52" class="java.lang.String" itemvalue="django-unidrv" />
+            <item index="53" class="java.lang.String" itemvalue="colormath" />
+            <item index="54" class="java.lang.String" itemvalue="django-parler" />
+            <item index="55" class="java.lang.String" itemvalue="django-rq" />
+            <item index="56" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="57" class="java.lang.String" itemvalue="django-task" />
+            <item index="58" class="java.lang.String" itemvalue="django_countries" />
+            <item index="59" class="java.lang.String" itemvalue="rq" />
+            <item index="60" class="java.lang.String" itemvalue="django-countries" />
+            <item index="61" class="java.lang.String" itemvalue="backports-entry-points-selectable" />
+            <item index="62" class="java.lang.String" itemvalue="django-flags" />
+            <item index="63" class="java.lang.String" itemvalue="django-ipware" />
+            <item index="64" class="java.lang.String" itemvalue="mysqlclient" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tango_with_django_project.tango_with_django_project.urls.rango" />
+          <option value="donorswall.wall.test.MessageTestCase.test_organization_with_messages" />
+          <option value="donorswall.wall.test.MessageTestCase.no_social_image_message_code" />
+          <option value="donorswall.wall.test.OrganizationTestCase.org1" />
+          <option value="donorswall.wall.test.OrganizationTestCase.no_social_image_message_code" />
+          <option value="donorswall.wall.test.OrganizationTestCase.org2" />
+          <option value="donorswall.wall.test.CampaignTestCase.test_organization" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
